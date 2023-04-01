@@ -1,0 +1,212 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+
+}
+
+.continer
+{
+    width:50%;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)) ,url('images/image.png');
+    height: 100vh;  
+    background-position:center;
+    background-size:cover;
+   position:relative;
+}
+.logo
+{
+  height:40px;  
+  padding:50px;
+  position:absolute;
+  top: 25%;
+  left:30%;
+  
+
+}
+   
+
+p img {
+
+    
+  
+  width: 14px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.p1
+{
+  color:white;
+  position:absolute;
+  top: 41%;
+  left:30%;
+}
+
+.p2
+{
+  color:white;
+  position:absolute;
+  top: 45.5%;
+  left:30%;
+}
+.p3
+{
+  color:white;
+  position:absolute;
+  top: 49.5%;
+  left:30%;
+}
+.p4
+{
+  color:white;
+  position:absolute;
+  top: 53.5%;
+  left:30%;
+}
+.p5
+{
+  color:white;
+  position:absolute;
+  top: 57.5%;
+  left:30%;
+}
+
+
+
+
+.continer-2
+{
+  position: absolute;
+  
+  left:100%;
+  background-color: white;
+  width:100%;
+  height: 100vh;
+  color:black;
+}
+
+h3
+{
+  position: absolute;
+  top: 9%;
+  left:10%;
+
+}
+
+.i2
+{
+  width:20px;
+}
+
+
+.box-1
+{
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position:absolute;
+  top: 16%;
+  left:10%;
+  width:300px;
+  height:80px;
+  background-color: white;
+  box-shadow:0px 0px 20px  rgba(0,0,0,0.15);
+}
+
+
+.box-2
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position:absolute;
+  top: 35%;
+  left:10%;
+  width:300px;
+  height:80px;
+  background-color: white;
+  box-shadow:0px 0px 20px  rgba(0,0,0,0.15);
+ 
+}
+ 
+small
+{
+ 
+      font-size:8px;
+      color:gray;
+      margin-left:25px;
+}
+
+.s-1
+{
+  position:absolute;
+  top: 57%;
+  left:10%;
+  background-color: white;
+  width:300px;
+  height:27px;
+  border:1px solid rgba(55, 52, 52, 0.741);
+  border-radius:5px;
+  padding:5px;
+
+}
+
+.input-1
+{
+  position:absolute;
+  top: 53%;
+  left:10%;
+  font-size:12px;
+}
+
+.s-2
+{
+  position:absolute;
+  top: 70%;
+  left:10%;
+  
+  background-color: white;
+  width:300px;
+  height:27px;
+  border:1px solid rgba(55, 52, 52, 0.741);
+  border-radius:5px;
+  padding:5px;
+
+}
+
+
+.input-2
+{
+  position:absolute;
+  top: 65%;
+  left:10%;
+  font-size:12px;
+}
+
+button{
+  position:absolute;
+  top: 80%;
+  left:10%;
+  width:150px;
+  height:40px;
+  color:white;
+  background-color: rgb(255, 68, 83);
+  border-radius:5px;
+  border:1px solid transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
